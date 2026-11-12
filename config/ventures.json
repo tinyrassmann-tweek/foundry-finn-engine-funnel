@@ -1,0 +1,70 @@
+{
+  "name": "Foundry Finn Engine & Funnel",
+  "ventureCount": 12,
+  "engineUrl": "https://foundry-finn.vercel.app/finn",
+  "parentBrand": "Think Tank Solutions AI",
+  "parentUrl": null,
+  "deploymentPolicy": "Separate frontend; preserve production engine. Parent URL and post-report handoff must be verified against live source before integration.",
+  "ventures": [
+    {
+      "name": "Think Tank Solutions AI",
+      "slug": "think-tank-solutions-ai",
+      "entryUrl": "https://foundry-finn.vercel.app/finn?utm_source=think-tank-solutions-ai&utm_medium=referral&utm_campaign=foundry_finn_free_report"
+    },
+    {
+      "name": "Think Tank Digital",
+      "slug": "think-tank-digital",
+      "entryUrl": "https://foundry-finn.vercel.app/finn?utm_source=think-tank-digital&utm_medium=referral&utm_campaign=foundry_finn_free_report"
+    },
+    {
+      "name": "TerraForm Sovereign AI",
+      "slug": "terraform-sovereign-ai",
+      "entryUrl": "https://foundry-finn.vercel.app/finn?utm_source=terraform-sovereign-ai&utm_medium=referral&utm_campaign=foundry_finn_free_report"
+    },
+    {
+      "name": "TerraForm Oasis",
+      "slug": "terraform-oasis",
+      "entryUrl": "https://foundry-finn.vercel.app/finn?utm_source=terraform-oasis&utm_medium=referral&utm_campaign=foundry_finn_free_report"
+    },
+    {
+      "name": "TerraForm EduTainment AI",
+      "slug": "terraform-edutainment-ai",
+      "entryUrl": "https://foundry-finn.vercel.app/finn?utm_source=terraform-edutainment-ai&utm_medium=referral&utm_campaign=foundry_finn_free_report"
+    },
+    {
+      "name": "Genesis Revitalization Group",
+      "slug": "genesis-revitalization-group",
+      "entryUrl": "https://foundry-finn.vercel.app/finn?utm_source=genesis-revitalization-group&utm_medium=referral&utm_campaign=foundry_finn_free_report"
+    },
+    {
+      "name": "SiteForge Philly",
+      "slug": "siteforge-philly",
+      "entryUrl": "https://foundry-finn.vercel.app/finn?utm_source=siteforge-philly&utm_medium=referral&utm_campaign=foundry_finn_free_report"
+    },
+    {
+      "name": "My Ancestry Speaks",
+      "slug": "my-ancestry-speaks",
+      "entryUrl": "https://foundry-finn.vercel.app/finn?utm_source=my-ancestry-speaks&utm_medium=referral&utm_campaign=foundry_finn_free_report"
+    },
+    {
+      "name": "My Ancestry Lives",
+      "slug": "my-ancestry-lives",
+      "entryUrl": "https://foundry-finn.vercel.app/finn?utm_source=my-ancestry-lives&utm_medium=referral&utm_campaign=foundry_finn_free_report"
+    },
+    {
+      "name": "Privacy-Pod",
+      "slug": "privacy-pod",
+      "entryUrl": "https://foundry-finn.vercel.app/finn?utm_source=privacy-pod&utm_medium=referral&utm_campaign=foundry_finn_free_report"
+    },
+    {
+      "name": "SimuTrade Labs",
+      "slug": "simutrade-labs",
+      "entryUrl": "https://foundry-finn.vercel.app/finn?utm_source=simutrade-labs&utm_medium=referral&utm_campaign=foundry_finn_free_report"
+    },
+    {
+      "name": "ClientFlow AI",
+      "slug": "clientflow-ai",
+      "entryUrl": "https://foundry-finn.vercel.app/finn?utm_source=clientflow-ai&utm_medium=referral&utm_campaign=foundry_finn_free_report"
+    }
+  ]
+}
